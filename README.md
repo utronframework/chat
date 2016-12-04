@@ -4,6 +4,8 @@ Simple chat application with utron
 This is implementation of a chat application that ports [revel based chat
 application](https://revel.github.io/samples/chat.html) to use utron framework.
 
+Only websocket example is implemented for now
+
 # Prerequisite
 
 You only need a working Go environment
